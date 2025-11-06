@@ -1,6 +1,6 @@
 # Transforming Code into Beautiful, Idiomatic Python
 
-(Modified for Python3 by [vitroid](https://github.com/vitroid))
+(Modified for Python3 by [vitroid](https://github.com/vitroid), forked from [JeffPaine](https://github.com/JeffPaine/beautiful_idiomatic_python).)
 
 Notes from Raymond Hettinger's talk at pycon US 2013 [video](http://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go), [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1).
 
